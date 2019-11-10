@@ -1,0 +1,5 @@
+*.class
+test/
+target/
+.idea
+RabbitMQSala.iml
